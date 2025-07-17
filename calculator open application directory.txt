@@ -1,0 +1,3 @@
+Bin folder, then
+Appl folder, then
+You click on the .exe file!

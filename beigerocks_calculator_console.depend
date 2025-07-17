@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752736570 source:d:\beigerocks\beigerocks_calculator_console\calculator.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
